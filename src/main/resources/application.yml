@@ -1,6 +1,6 @@
 server:
   port: 8989
-  context-path: /springboot
+  context-path: /vote
   jsp-servlet:
     init-parameters:
       development: true
