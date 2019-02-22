@@ -6,8 +6,8 @@ import lombok.NoArgsConstructor;
 
 import java.io.Serializable;
 @Data
-@AllArgsConstructor
 @NoArgsConstructor
+@AllArgsConstructor
 public class Option implements Serializable {
     private Integer voId;
 
@@ -18,5 +18,6 @@ public class Option implements Serializable {
     private Integer voOrder;
 
     private Integer voIsDelete;
+
 
 }

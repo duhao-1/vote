@@ -6,8 +6,8 @@ import lombok.NoArgsConstructor;
 
 import java.io.Serializable;
 @Data
-@AllArgsConstructor
 @NoArgsConstructor
+@AllArgsConstructor
 public class Subject implements Serializable {
     private Integer vsId;
 
