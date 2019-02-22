@@ -51,7 +51,7 @@
 
         <!-- 要生成哪些表 -->
         <!-- domainObjectName实体类名 -->
-        <table tableName="vote_user" domainObjectName="User"
+        <table tableName="vote_subject" domainObjectName="Subject"
                enableCountByExample="false" enableUpdateByExample="false"
                enableDeleteByExample="false" enableSelectByExample="false"
                selectByExampleQueryId="false"></table>
